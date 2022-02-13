@@ -56,7 +56,7 @@ Large P6モデルを使用するか否か<br>
 </details>
 
 <details>
-<summary>motpyパラメータ</summary>
+<summary>ByteTrackパラメータ</summary>
   
 * --track_thresh<br>
 デフォルト：0.5
