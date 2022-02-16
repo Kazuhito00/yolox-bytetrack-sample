@@ -8,6 +8,8 @@ https://user-images.githubusercontent.com/37477845/153743142-5715995c-9642-4285-
 # Requirement 
 * OpenCV 3.4.2 or later
 * onnxruntime 1.5.2 or later
+* lap 0.4.0 or later 
+* Cython 0.29.27 or later 
 * cython_bbox 0.1.3 or later
 <br>
 ※onnxruntime-gpuはonnxruntimeでも動作しますが、推論時間がかかるためGPUを推奨します<br>
