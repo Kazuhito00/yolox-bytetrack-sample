@@ -2,6 +2,7 @@
 
 [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)と[ByteTrack](https://github.com/ifzhang/ByteTrack)を用いたMOT(Multiple Object Tracking)のPythonサンプルです。<br>
 YOLOXは[YOLOX-ONNX-TFLite-Sample](https://github.com/Kazuhito00/YOLOX-ONNX-TFLite-Sample)で、ONNXに変換したモデルを使用しています。<br>
+マルチクラス拡張版は[Kazuhito00/yolox-bytetrack-mcmot-sample](https://github.com/Kazuhito00/yolox-bytetrack-mcmot-sample)を参照ください。<br>
 
 https://user-images.githubusercontent.com/37477845/153743142-5715995c-9642-4285-93ce-331f43ec18ef.mp4
 
